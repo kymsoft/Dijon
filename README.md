@@ -1,0 +1,2 @@
+# Cassa
+AI Cashier
