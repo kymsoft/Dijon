@@ -1,2 +1,2 @@
-# Cassa
-AI Cashier
+# UI/UX
+UI/UX designs platform
